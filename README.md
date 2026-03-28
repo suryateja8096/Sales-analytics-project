@@ -38,6 +38,9 @@ Excel – Data preprocessing and validation
 📂 Dataset
 Northwind Sample Database
 Includes tables such as Customers, Orders, Products, Suppliers, and Employees
+<img width="1331" height="734" alt="image" src="https://github.com/user-attachments/assets/0d295213-2bc7-4433-bbf6-18a7955b7bce" />
+
+
 🎯 Conclusion
 
 This project demonstrates how raw transactional data can be transformed into meaningful insights using analytics and visualization tools. It highlights critical business patterns and supports strategic decision-making.
