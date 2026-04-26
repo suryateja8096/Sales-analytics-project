@@ -34,7 +34,7 @@ Supplier contribution is uneven, with dependency on a few key suppliers and regi
 🛠️ Tools & Technologies
 SQL – Data extraction and transformation
 Power BI / Tableau – Data visualization and dashboard creation
-Excel – Data preprocessing and validation
+Excel – Data preprocessing and validation.
 📂 Dataset
 Northwind Sample Database
 Includes tables such as Customers, Orders, Products, Suppliers, and Employees
